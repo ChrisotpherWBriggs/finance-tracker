@@ -11,6 +11,7 @@ gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
 gem 'stock_quote', '~> 2.0.0'
+gem 'font-awesome-rails'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
